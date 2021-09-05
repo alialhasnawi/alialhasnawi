@@ -1,6 +1,7 @@
-### Hello
+### Hello. 🧍
 
-I'm currently a student at UfT CS trying to learn some cool tech things <sup>🤖🤖🤖</sup>
+I'm currently a student at UfT CS trying to learn some cool tech things <sub>🤖</sub>
+
 Checkout my repos and website for some projects!
 
 👁👁
