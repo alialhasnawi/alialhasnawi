@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello
+
+I'm currently a student at UfT CS trying to learn some cool tech things <sup>🤖🤖🤖</sup>
+Checkout my repos and website for some projects!
+
+👁👁
 
 <!--
 **alialhasnawi/alialhasnawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
