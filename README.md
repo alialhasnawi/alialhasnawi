@@ -2,7 +2,7 @@
 
 I'm currently a student at UfT CS trying to learn some cool tech things <sub>🤖</sub>
 
-Checkout my repos and website for some projects! I'm currently learning more stuff, so stay tuned...
+Checkout my repos and **[alialhasnawi.github.io](https://alialhasnawi.github.io/)** for some projects! I'm currently learning more stuff, so stay tuned...
 
 👁👁
 
