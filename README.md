@@ -1,6 +1,6 @@
 ### Hello. 🧍
 
-I'm currently a student at UofT CS trying to learn some cool tech things <sub>🤖</sub>
+I'm currently interning at Alphawave Semi and a student at UofT CS trying to learn some cool tech things <sub>🤖</sub>
 
 Checkout my repos and **[alialh.com](https://www.alialh.com/)** for some projects! I'm currently learning more stuff, so stay tuned...
 
